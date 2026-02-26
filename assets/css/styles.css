@@ -1,0 +1,20 @@
+/* styles.css */
+:root {
+  /* CSS HEX */
+--dust-grey: #dad2d8ff;
+--jet-black: #143642ff;
+--dark-cyan: #0f8b8dff;
+--golden-orange: #ec9a29ff;
+--mahogany-red: #a8201aff;
+}
+
+body {
+  background-color: var(--dust-grey);
+}
+h1 {
+  color: var(--jet-black);
+}
+
+.col{
+  border: 1px solid red;
+}
